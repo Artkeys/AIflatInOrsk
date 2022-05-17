@@ -1,0 +1,60 @@
+D:\Programming\Программы C#\AIProperty\AIProperty\bin\Debug\AIProperty.exe.config
+D:\Programming\Программы C#\AIProperty\AIProperty\bin\Debug\AIProperty.exe
+D:\Programming\Программы C#\AIProperty\AIProperty\bin\Debug\AIProperty.pdb
+D:\Programming\Программы C#\AIProperty\AIProperty\obj\Debug\AIProperty.csproj.AssemblyReference.cache
+D:\Programming\Программы C#\AIProperty\AIProperty\obj\Debug\AIProperty.csproj.SuggestedBindingRedirects.cache
+D:\Programming\Программы C#\AIProperty\AIProperty\obj\Debug\MainWindow.g.cs
+D:\Programming\Программы C#\AIProperty\AIProperty\obj\Debug\App.g.cs
+D:\Programming\Программы C#\AIProperty\AIProperty\obj\Debug\AIProperty_MarkupCompile.cache
+D:\Programming\Программы C#\AIProperty\AIProperty\obj\Debug\AIProperty_MarkupCompile.lref
+D:\Programming\Программы C#\AIProperty\AIProperty\obj\Debug\MainWindow.baml
+D:\Programming\Программы C#\AIProperty\AIProperty\obj\Debug\AIProperty.g.resources
+D:\Programming\Программы C#\AIProperty\AIProperty\obj\Debug\AIProperty.Properties.Resources.resources
+D:\Programming\Программы C#\AIProperty\AIProperty\obj\Debug\AIProperty.csproj.GenerateResource.cache
+D:\Programming\Программы C#\AIProperty\AIProperty\obj\Debug\AIProperty.csproj.CoreCompileInputs.cache
+D:\Programming\Программы C#\AIProperty\AIProperty\obj\Debug\AIProperty.exe
+D:\Programming\Программы C#\AIProperty\AIProperty\obj\Debug\AIProperty.pdb
+S:\AIProperty\AIProperty\bin\Debug\AIProperty.exe.config
+S:\AIProperty\AIProperty\bin\Debug\AIProperty.exe
+S:\AIProperty\AIProperty\bin\Debug\AIProperty.pdb
+S:\AIProperty\AIProperty\obj\Debug\AIProperty.csprojAssemblyReference.cache
+S:\AIProperty\AIProperty\obj\Debug\MainWindow.g.cs
+S:\AIProperty\AIProperty\obj\Debug\App.g.cs
+S:\AIProperty\AIProperty\obj\Debug\AIProperty_MarkupCompile.cache
+S:\AIProperty\AIProperty\obj\Debug\AIProperty_MarkupCompile.lref
+S:\AIProperty\AIProperty\obj\Debug\MainWindow.baml
+S:\AIProperty\AIProperty\obj\Debug\AIProperty.g.resources
+S:\AIProperty\AIProperty\obj\Debug\AIProperty.Properties.Resources.resources
+S:\AIProperty\AIProperty\obj\Debug\AIProperty.csproj.GenerateResource.cache
+S:\AIProperty\AIProperty\obj\Debug\AIProperty.exe
+S:\AIProperty\AIProperty\obj\Debug\AIProperty.pdb
+S:\AIPropertyGotovoe\AIProperty\bin\Debug\AIProperty.exe.config
+S:\AIPropertyGotovoe\AIProperty\bin\Debug\AIProperty.exe
+S:\AIPropertyGotovoe\AIProperty\bin\Debug\AIProperty.pdb
+S:\AIPropertyGotovoe\AIProperty\obj\Debug\AIProperty.csprojAssemblyReference.cache
+S:\AIPropertyGotovoe\AIProperty\obj\Debug\MainWindow.g.cs
+S:\AIPropertyGotovoe\AIProperty\obj\Debug\App.g.cs
+S:\AIPropertyGotovoe\AIProperty\obj\Debug\AIProperty_MarkupCompile.cache
+S:\AIPropertyGotovoe\AIProperty\obj\Debug\AIProperty_MarkupCompile.lref
+S:\AIPropertyGotovoe\AIProperty\obj\Debug\MainWindow.baml
+S:\AIPropertyGotovoe\AIProperty\obj\Debug\AIProperty.g.resources
+S:\AIPropertyGotovoe\AIProperty\obj\Debug\AIProperty.Properties.Resources.resources
+S:\AIPropertyGotovoe\AIProperty\obj\Debug\AIProperty.csproj.GenerateResource.cache
+S:\AIPropertyGotovoe\AIProperty\obj\Debug\AIProperty.exe
+S:\AIPropertyGotovoe\AIProperty\obj\Debug\AIProperty.pdb
+D:\Dowload\AIPropertyGotovoe1\AIProperty\bin\Debug\AIProperty.exe.config
+D:\Dowload\AIPropertyGotovoe1\AIProperty\bin\Debug\AIProperty.exe
+D:\Dowload\AIPropertyGotovoe1\AIProperty\bin\Debug\AIProperty.pdb
+D:\Dowload\AIPropertyGotovoe1\AIProperty\obj\Debug\AIProperty.csproj.AssemblyReference.cache
+D:\Dowload\AIPropertyGotovoe1\AIProperty\obj\Debug\AIProperty.csproj.SuggestedBindingRedirects.cache
+D:\Dowload\AIPropertyGotovoe1\AIProperty\obj\Debug\MainWindow.g.cs
+D:\Dowload\AIPropertyGotovoe1\AIProperty\obj\Debug\App.g.cs
+D:\Dowload\AIPropertyGotovoe1\AIProperty\obj\Debug\AIProperty_MarkupCompile.cache
+D:\Dowload\AIPropertyGotovoe1\AIProperty\obj\Debug\AIProperty_MarkupCompile.lref
+D:\Dowload\AIPropertyGotovoe1\AIProperty\obj\Debug\MainWindow.baml
+D:\Dowload\AIPropertyGotovoe1\AIProperty\obj\Debug\AIProperty.g.resources
+D:\Dowload\AIPropertyGotovoe1\AIProperty\obj\Debug\AIProperty.Properties.Resources.resources
+D:\Dowload\AIPropertyGotovoe1\AIProperty\obj\Debug\AIProperty.csproj.GenerateResource.cache
+D:\Dowload\AIPropertyGotovoe1\AIProperty\obj\Debug\AIProperty.csproj.CoreCompileInputs.cache
+D:\Dowload\AIPropertyGotovoe1\AIProperty\obj\Debug\AIProperty.exe
+D:\Dowload\AIPropertyGotovoe1\AIProperty\obj\Debug\AIProperty.pdb

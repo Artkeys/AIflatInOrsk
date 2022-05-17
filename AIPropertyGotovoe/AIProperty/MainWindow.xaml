@@ -1,0 +1,47 @@
+﻿<Window x:Class="AIProperty.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AIProperty"
+        mc:Ignorable="d"
+        Title="Оценка недвижимости" Height="490" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/resource/novostroy.jpg" Opacity="0.57"></ImageBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="500*"></ColumnDefinition>
+            <ColumnDefinition Width="200*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="0" HorizontalAlignment="Center" Orientation="Horizontal" Margin="20 10 0 0">
+            <StackPanel>
+                <TextBlock Text="Количество комнат" FontSize="24" FontFamily="Comic Sans MS" Margin="0 0 0 0" Width="250" FontWeight="Heavy" TextWrapping="Wrap"></TextBlock>
+                <TextBlock Text="Общая площадь"  FontSize="24" FontFamily="Comic Sans MS" Margin="0 15 0 0" Width="250" FontWeight="Heavy" TextWrapping="Wrap"></TextBlock>
+                <TextBlock Text="Этаж"  FontSize="24" FontFamily="Comic Sans MS" Margin="0 15 0 0" Width="250" FontWeight="Heavy" TextWrapping="Wrap"></TextBlock>
+                <TextBlock Text="Район"  FontSize="24" FontFamily="Comic Sans MS" Margin="0 15 0 0" Width="250" FontWeight="Heavy" TextWrapping="Wrap"></TextBlock>
+                <TextBlock Text="Этажность дома"  FontSize="24" FontFamily="Comic Sans MS" Margin="0 15 0 0" Width="250" FontWeight="Heavy" TextWrapping="Wrap"></TextBlock>
+                <TextBlock Text="Тех. состояние"  FontSize="24" FontFamily="Comic Sans MS" Margin="0 15 0 0" Width="250" FontWeight="Heavy" TextWrapping="Wrap"></TextBlock>
+                <TextBlock Text="Тип дома"  FontSize="24" FontFamily="Comic Sans MS" Margin="0 15 0 0" Width="250" FontWeight="Heavy" TextWrapping="Wrap"></TextBlock>
+                <Button x:Name="CalculateBtn" Width="200" Height="40" Margin="-15 50 0 0" Content="Расчитать" FontSize="24" FontFamily="Comic Sans MS" Opacity="0.85" Background="#fe948d" IsEnabled="False" Click="CalculateBtn_Click"></Button>
+            </StackPanel>
+            <StackPanel>
+                <TextBox x:Name="NumberRoomsTxt" Width="250" Margin="0 0 0 5" FontSize="24" FontFamily="Comic Sans MS" PreviewTextInput="NumberRoomsTxt_PreviewTextInput" Opacity="0.9"></TextBox>
+                <TextBox x:Name="TotalAreaTxt" Width="250" Margin="0 7 0 5" FontSize="24" FontFamily="Comic Sans MS" PreviewTextInput="TotalAreaTxt_PreviewTextInput" Opacity="0.9"></TextBox>
+                <TextBox x:Name="FloorAreaTxt" Width="250" Margin="0 7 0 5" FontSize="24" FontFamily="Comic Sans MS" PreviewTextInput="FloorAreaTxt_PreviewTextInput" Opacity="0.9"></TextBox>
+                <ComboBox x:Name="DistrictCmb" Width="250" Margin="0 7 0 5" FontSize="24" FontFamily="Comic Sans MS"></ComboBox>
+                <TextBox x:Name="FloorBuildingTxt" Width="250" Margin="0 6 0 5" FontSize="24" FontFamily="Comic Sans MS" PreviewTextInput="FloorBuildingTxt_PreviewTextInput" Opacity="0.9"></TextBox>
+                <ComboBox x:Name="TehSostCmb" Width="250" Margin="0 6 0 5" FontSize="24" FontFamily="Comic Sans MS" Opacity="0.9"></ComboBox>
+                <ComboBox x:Name="TypeBuildingCmb" Width="250" Margin="0 5 0 0" FontSize="24" FontFamily="Comic Sans MS" Opacity="0.9"></ComboBox>
+                <Button x:Name="ClearBtn" Width="200" Height="40" Margin="0 46 0 0" Content="Очистить" FontSize="24" FontFamily="Comic Sans MS" Opacity="0.85" Background="#fe948d" Click="ClearBtn_Click"></Button>
+            </StackPanel>
+        </StackPanel>
+        <StackPanel Grid.Row="0" Grid.Column="1">
+            <ListView x:Name="epoh_NetworkList" Width="210" Height="328" Margin="0 10 0 0" ScrollViewer.VerticalScrollBarVisibility="Disabled" Opacity="0.85" FontFamily="Comic Sans MS"></ListView>
+            <Button x:Name="teach_networkBtn" Width="210" Height="40" Margin="0 46 0 0" Content="Обучить сеть" FontSize="24" FontFamily="Comic Sans MS" Opacity="0.85" Background="#fe948d" Click="teach_networkBtn_Click"></Button>
+        </StackPanel>
+    </Grid>
+</Window>
